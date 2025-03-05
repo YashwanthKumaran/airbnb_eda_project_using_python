@@ -47,21 +47,26 @@ Import Airbnb dataset (CSV or other formats).
 Check for missing values and duplicates.
 Handle missing values by appropriate methods (mean imputation for numeric data, categorical filtering, or removal).
 Normalize data formats for consistency.
+
 2. Exploratory Data Analysis (EDA)
 Perform summary statistics (mean, median, standard deviation, etc.).
 Visualize key trends using histograms, box plots, and scatter plots.
 Analyze relationships between price, location, room type, and availability.
+
 3. Price & Availability Analysis
 Plot price distributions across different neighborhoods.
 Identify peak booking seasons and trends over time.
 Explore the correlation between listing price and customer reviews.
+
 4. Host & Listing Insights
 Analyze host activity (number of listings, response rate, and reviews).
 Identify patterns in highly rated vs. poorly rated listings.
 Determine factors influencing successful listings.
+
 5. Outlier Detection & Anomaly Analysis
 Use Z-score and IQR methods to detect extreme price variations.
 Identify listings with unusual pricing or availability trends.
+
 6. Data Visualization & Reporting
 Generate meaningful charts and graphs using Matplotlib & Seaborn.
 Create interactive dashboards (optional) for better insights.
