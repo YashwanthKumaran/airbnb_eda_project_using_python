@@ -2,7 +2,7 @@
 This project performs an in-depth exploratory data analysis (EDA) on Airbnb listings to uncover key trends in pricing, availability, and host behavior. Using Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn, the dataset is cleaned, analyzed, and visualized to provide data-driven insights for Airbnb hosts, travelers, and market analysts.
 
 
-![](https://github.com/YashwanthKumaran/airbnb_eda_project_using_python/blob/main/air_bnb.webp)
+![](https://github.com/YashwanthKumaran/airbnb_eda_project_using_python/blob/main/image_2025-03-05_144723820.png)
 
 ## Overview
 Understanding the Airbnb market requires analyzing large datasets to identify patterns in pricing, seasonal demand, and host activity. This project aims to explore Airbnb listing data through data cleaning, preprocessing, statistical analysis, and visualization to extract meaningful insights.
