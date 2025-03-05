@@ -4,7 +4,7 @@ This project performs an in-depth exploratory data analysis (EDA) on Airbnb list
 ## Overview
 Understanding the Airbnb market requires analyzing large datasets to identify patterns in pricing, seasonal demand, and host activity. This project aims to explore Airbnb listing data through data cleaning, preprocessing, statistical analysis, and visualization to extract meaningful insights.
 
-The study focuses on:
+## The study focuses on:
 
 Price distribution & influencing factors – How do various factors (location, amenities, reviews, etc.) affect Airbnb pricing?
 
