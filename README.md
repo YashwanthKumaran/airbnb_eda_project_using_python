@@ -87,3 +87,10 @@ Detection of trends and seasonal demand patterns.
 Insights into host behaviors and best practices for successful listings.
 Neighborhood analysis for price competitiveness.
 Outlier detection to improve data integrity.
+
+
+
+
+This project is part of my portfolio, showcasing the Python data analytics skills essential for data analyst roles.
+
+Thank you!
