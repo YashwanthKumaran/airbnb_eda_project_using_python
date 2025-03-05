@@ -7,10 +7,15 @@ Understanding the Airbnb market requires analyzing large datasets to identify pa
 The study focuses on:
 
 Price distribution & influencing factors – How do various factors (location, amenities, reviews, etc.) affect Airbnb pricing?
+
 Availability & seasonal trends – How does Airbnb availability change across different times of the year?
+
 Neighborhood analysis – How do listings in different areas compare in terms of pricing and occupancy?
+
 Host behavior insights – What patterns emerge from host activity, such as listing frequency and response rates?
+
 Outlier detection & data integrity – Identifying anomalies in pricing and booking rates to ensure data accuracy.
+
 By leveraging EDA techniques, this project provides insights to help hosts optimize pricing strategies, assist travelers in making informed booking decisions, and support market analysts in understanding Airbnb trends.
 
 ## Objectives
